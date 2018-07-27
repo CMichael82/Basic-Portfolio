@@ -102,9 +102,11 @@ p {
 .project-tag {
 	background: #4aaaa5;
 	bottom: 30px;
+	box-sizing: border-box;
 	color: #ffffff;
 	font-size: 24px;
 	height: 40px;
+	padding: 5px;
 	position: absolute;
 	text-align: center;
 	width: 200px;
